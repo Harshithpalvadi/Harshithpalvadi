@@ -1,14 +1,13 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=220&section=header&text=Harshith%20Palvadi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2B%20React&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=150&section=header" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+with+JavaScript+%2B+React;Turning+small+ideas+into+real+apps;Currently+shipping+TuneX+%F0%9F%8E%B5" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there, I'm Harshith Palvadi 👋</h1>
+<h3 align="center">Full-Stack Developer crafting clean, functional web apps with JavaScript &amp; React</h3>
 
 - 🔭 Currently building **TuneX**, a React + Vite web app
 - 🌱 Currently sharpening my **React, JavaScript, and UI/UX** skills
-- 💬 Ask me about **JavaScript, React, HTML/CSS, Git and GitHub**
+- 💬 Ask me about **JavaScript, React, HTML/CSS, Git &amp; GitHub**
 - 📫 Reach me by opening an issue on any repo below or via the links at the bottom
 - ⚡ Fun fact: I enjoy turning small ideas into working prototypes
 
@@ -68,4 +67,6 @@ A car showcase web project.
 <a href="https://github.com/Harshithpalvadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6366F1&height=120&section=footer" />
+<p align="center"><i>Thanks for stopping by — take a look at my pinned repos below!</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6366F1&height=100&section=footer" />
