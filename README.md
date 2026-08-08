@@ -1,40 +1,37 @@
-<h1 align="center">Hi there, I'm Harshith Palvadi 👋</h1>
-<h3 align="center">Full-Stack Developer crafting clean, functional web apps with JavaScript &amp; React</h3>
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:22D3EE&height=220&section=header&text=Harshith%20Palvadi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20JavaScript%20%2B%20React&descAlignY=58&descSize=20" />
+</p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/Harshithpalvadi?label=Followers&style=social" />
-<img src="https://img.shields.io/github/stars/Harshithpalvadi?label=Stars&style=social" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+with+JavaScript+%2B+React;Turning+small+ideas+into+real+apps;Currently+shipping+TuneX+%F0%9F%8E%B5" alt="Typing SVG" />
 </p>
 
 - 🔭 Currently building **TuneX**, a React + Vite web app
 - 🌱 Currently sharpening my **React, JavaScript, and UI/UX** skills
-- 💬 Ask me about **JavaScript, React, HTML/CSS, Git &amp; GitHub**
+- 💬 Ask me about **JavaScript, React, HTML/CSS, Git and GitHub**
 - 📫 Reach me by opening an issue on any repo below or via the links at the bottom
 - ⚡ Fun fact: I enjoy turning small ideas into working prototypes
 
-### 🛠️ Tech Stack
+<br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,html,css,vite,git,github,vscode&theme=dark" />
+</p>
 
-### 📌 Featured Projects
+<br>
 
-<table>
+<h3 align="center">📌 Featured Projects</h3>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 **[🎵 TuneX](https://github.com/Harshithpalvadi/TuneX)**
 A React + Vite web application.
 `React` `JavaScript` `HTML` `CSS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 **🚗 supercarwale**
 A car showcase web project.
@@ -44,18 +41,31 @@ A car showcase web project.
 </tr>
 </table>
 
-### 🎯 What I'm focused on next
+<br>
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harshithpalvadi/Harshithpalvadi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harshithpalvadi/Harshithpalvadi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Harshithpalvadi/Harshithpalvadi/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+</p>
+
+<h3 align="center">🎯 What I'm focused on next</h3>
 
 - Shipping more complete, polished projects (not just starters)
 - Deepening my React + JavaScript fundamentals
 - Writing better READMEs and documentation for every repo I publish
 
-### 🤝 Connect with me
+<h3 align="center">🤝 Connect with me</h3>
 
 <!-- TODO: add your real LinkedIn / email so recruiters can reach you, e.g.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 -->
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshithpalvadi)
+<p align="center">
+<a href="https://github.com/Harshithpalvadi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<p align="center"><i>Thanks for stopping by — take a look at my pinned repos below!</i></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6366F1&height=120&section=footer" />
