@@ -1,6 +1,11 @@
 <h1 align="center">Hi there, I'm Harshith Palvadi 👋</h1>
 <h3 align="center">Full-Stack Developer crafting clean, functional web apps with JavaScript &amp; React</h3>
 
+<p align="center">
+<img src="https://img.shields.io/github/followers/Harshithpalvadi?label=Followers&style=social" />
+<img src="https://img.shields.io/github/stars/Harshithpalvadi?label=Stars&style=social" />
+</p>
+
 - 🔭 Currently building **TuneX**, a React + Vite web app
 - 🌱 Currently sharpening my **React, JavaScript, and UI/UX** skills
 - 💬 Ask me about **JavaScript, React, HTML/CSS, Git &amp; GitHub**
@@ -39,16 +44,11 @@ A car showcase web project.
 </tr>
 </table>
 
-### 📊 GitHub Stats
+### 🎯 What I'm focused on next
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshithpalvadi&show_icons=true&theme=radical&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshithpalvadi&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshithpalvadi&theme=radical&hide_border=true" />
-</p>
+- Shipping more complete, polished projects (not just starters)
+- Deepening my React + JavaScript fundamentals
+- Writing better READMEs and documentation for every repo I publish
 
 ### 🤝 Connect with me
 
